@@ -6,3 +6,5 @@ gitdev
 Testing a modified file, testing it again
 
 Testing Git Gui
+
+Editing for kthomas-dev branch
